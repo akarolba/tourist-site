@@ -1,0 +1,36 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+  text-transform: uppercase;
+  color: red;
+}
+
+img {
+  width: 100%;
+}
+
+#história {
+  color: blue;
+}
+
+#casais {
+color: purple;
+}
+
+#Famílias {
+  color: red;
+}
+
+#Orçamento {
+  color: orangered;
+}
+
+#finaltext {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}

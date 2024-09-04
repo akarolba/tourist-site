@@ -1,14 +1,18 @@
 * {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-span {
+#chamada {
   text-transform: uppercase;
   color: red;
 }
 
 img {
   width: 100%;
+}
+
+main {
+  max-width: 1120px;
 }
 
 #história {
@@ -19,11 +23,11 @@ img {
 color: purple;
 }
 
-#Famílias {
+#familias {
   color: red;
 }
 
-#Orçamento {
+#orçamento {
   color: orangered;
 }
 
@@ -33,4 +37,12 @@ color: purple;
 
 footer {
   text-align: center;
+}
+
+#header1 {
+  text-align: center;
+}
+
+li {
+  color: blue;
 }
